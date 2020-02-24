@@ -1,0 +1,2 @@
+/home/shayantan/GSOC_2020/sample_brain/brain.gtf
+/home/shayantan/GSOC_2020/sample_liver/liver.gtf
